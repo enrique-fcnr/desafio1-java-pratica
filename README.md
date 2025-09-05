@@ -96,7 +96,7 @@ Valor total do pedido
 
 📌 Como Executar
 Clone este repositório:
-git clone https://github.com/SEU-USUARIO/nome-do-repositorio.git
+git clone https://github.com/enrique-fcnr/desafio1-java-pratica
 Compile os arquivos:
 javac application/Program.java
 Execute o programa:
